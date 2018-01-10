@@ -1,0 +1,134 @@
+/* -----------------------------------
+Template:  P-folio One Page Parallax Portfolio Template
+Author: RoyHridoy
+Version: 1.0
+Design and Developed by: Hridoy Roy
+
+NOTE: This is Header style file. All Header related style included in this file.
+
+--------------------------------------*/
+
+/*================================================
+[  Table of contents  ]
+==================================================
+01. header area
+02. stick header
+03. mainmenu
+
+
+======================================
+[ End table content ]
+======================================*/
+
+/*************************
+header area
+*************************/
+
+.header-area {
+    height: 60px;
+    position: relative;
+}
+nav.collapse {
+    padding: 0;
+}
+
+/*************************
+stick header
+*************************/
+
+#sticker {
+    background-color: #dfdfdf;
+    left: auto;
+    margin: auto;
+    position: fixed;
+    width: 100%;
+    z-index: 999999;
+}
+.header-area.stick {
+    height: 40px;
+    background-color: #fff;
+    border-bottom: 1px solid #efefef;
+}
+.stick .mainmenu ul li a {
+    margin-top: 0px;
+}
+
+/*************************
+mainmenu
+*************************/
+
+.mainmenu ul {
+    text-align: center;
+}
+.mainmenu ul li {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    margin-left: -4px;
+}
+.mainmenu ul li a {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    color: #454545;
+    text-transform: uppercase;
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    position: relative;
+    z-index: 1;
+}
+.mainmenu ul li:hover a,
+.mainmenu ul li.active a {
+    color: #fff;
+    background-color: #3e3e3e;
+}
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .mainmenu ul li a {
+      font-size: 12px;
+      padding: 11px 14px;
+    }
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .container {
+        width:  300px;
+    }
+    .header-area,
+    .header-area.stick {
+        height: 51px;
+        border-bottom: 0px;
+    }
+    .navbar-toggle {
+        border: 1px solid #3e3e3e;
+        float: right;
+    }
+    .navbar-header {
+        text-align: center;
+    }
+    .navbar-toggle .icon-bar {
+        background-color: #3e3e3e;
+    }
+    .mainmenu ul {
+        background-color: #fff;
+    }
+    .mainmenu ul li {
+        display: block;
+        margin-left: 0px;
+    }
+    .mainmenu ul li a {
+        margin-top: 0;
+    }
+    .w-100 {
+        width: 100% !important;
+    }
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+    width:  450px;
+    }
+}
