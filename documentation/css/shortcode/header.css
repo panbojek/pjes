@@ -38,7 +38,7 @@ stick header
 
 #sticker {
     background-color: #dfdfdf;
-    left: auto;
+    /* left: auto; */
     margin: auto;
     position: fixed;
     width: 100%;
