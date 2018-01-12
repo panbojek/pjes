@@ -6,6 +6,8 @@ Developed by: Hridoy Roy
 This file contains the styling for the actual Template.
 Please do not change anything here! write in a custom.css file if required!
 */
+
+
 /*================================================
 [  Table of contents  ]
 ==================================================
@@ -58,6 +60,8 @@ Please do not change anything here! write in a custom.css file if required!
 ======================================
 [ End table content ]
 ======================================*/
+
+
 /*************************
 01. Background Image
 *************************/
@@ -65,276 +69,368 @@ Please do not change anything here! write in a custom.css file if required!
 .hero-bg-1 {
     background-image: url(assets/img/hero-area/1.jpg);
 }
+
 .hero-bg-2 {
     background-image: url(assets/img/hero-area/2.jpg);
 }
+
 .hero-bg-3 {
     background-image: url(assets/img/hero-area/3.jpg);
 }
+
 .hero-bg-4 {
     background-image: url(assets/img/hero-area/4.jpg);
 }
+
 .hero-bg-5 {
     background-image: url(assets/img/hero-area/5.jpg);
 }
+
 .hero-bg-6 {
     background-image: url(assets/img/hero-area/6.jpg);
 }
+
 .hero-bg-7 {
     background-image: url(assets/img/hero-area/7.jpg);
 }
+
 .hero-bg-8 {
     background-image: url(assets/img/hero-area/8.jpg);
 }
+
 .hero-bg-9 {
     background-image: url(assets/img/hero-area/9.jpg);
 }
+
 .hero-bg-10 {
     background-image: url(assets/img/hero-area/10.jpg);
 }
+
 .hero-bg-11 {
     background-image: url(assets/img/hero-area/11.jpg);
 }
+
 .hero-bg-12 {
     background-image: url(assets/img/hero-area/12.jpg);
 }
+
 .project-bg-1 {
     background-image: url(assets/img/portfolio/1.jpg);
 }
+
 .project-bg-2 {
     background-image: url(assets/img/portfolio/2.jpg);
 }
+
 .project-bg-3 {
     background-image: url(assets/img/portfolio/3.jpg);
 }
+
 .project-bg-4 {
     background-image: url(assets/img/portfolio/4.jpg);
 }
+
 .project-bg-5 {
     background-image: url(assets/img/portfolio/5.jpg);
 }
+
 .project-bg-6 {
     background-image: url(assets/img/portfolio/6.jpg);
 }
+
 .project-bg-7 {
     background-image: url(assets/img/portfolio/7.jpg);
 }
+
 .project-bg-8 {
     background-image: url(assets/img/portfolio/8.jpg);
 }
+
 .project-bg-9 {
     background-image: url(assets/img/portfolio/9.jpg);
 }
+
 .project-bg-10 {
     background-image: url(assets/img/portfolio/10.jpg);
 }
+
 .project-bg-11 {
     background-image: url(assets/img/portfolio/11.jpg);
 }
+
 .project-bg-12 {
     background-image: url(assets/img/portfolio/12.jpg);
 }
+
 .project-bg-13 {
     background-image: url(assets/img/portfolio/13.jpg);
 }
+
 .project-bg-14 {
     background-image: url(assets/img/portfolio/14.jpg);
 }
+
 .project-bg-15 {
     background-image: url(assets/img/portfolio/15.jpg);
-	}
+}
+
 .project-bg-16 {
     background-image: url(assets/img/portfolio/16.jpg);
-		}
+}
+
 .project-bg-17 {
     background-image: url(assets/img/portfolio/17.jpg);
-		}
+}
+
 .project-bg-18 {
     background-image: url(assets/img/portfolio/18.jpg);
-		}
+}
+
 .project-bg-19 {
     background-image: url(assets/img/portfolio/19.jpg);
-			}
+}
+
 .project-bg-20 {
     background-image: url(assets/img/portfolio/20.jpg);
-			}
+}
+
 .project-bg-21 {
     background-image: url(assets/img/portfolio/21.jpg);
-			}
+}
+
 .project-bg-22 {
     background-image: url(assets/img/portfolio/22.jpg);
-			}
+}
+
 .project-bg-23 {
     background-image: url(assets/img/portfolio/23.jpg);
-			}
+}
+
 .project-bg-24 {
     background-image: url(assets/img/portfolio/24.jpg);
-				}
+}
+
 .project-bg-25 {
     background-image: url(assets/img/portfolio/25.jpg);
-				}
+}
+
 .project-bg-26 {
     background-image: url(assets/img/portfolio/26.jpg);
-				}
+}
+
 .project-bg-27 {
     background-image: url(assets/img/portfolio/27.jpg);
-				}
+}
+
 .project-bg-28 {
     background-image: url(assets/img/portfolio/28.jpg);
 }
+
 .project-bg-29 {
     background-image: url(assets/img/portfolio/29.jpg);
 }
+
 .project-bg-30 {
     background-image: url(assets/img/portfolio/30.jpg);
 }
+
 .project-bg-31 {
     background-image: url(assets/img/portfolio/31.jpg);
 }
+
 .project-bg-32 {
     background-image: url(assets/img/portfolio/32.jpg);
 }
+
 .project-bg-33 {
     background-image: url(assets/img/portfolio/33.jpg);
 }
+
 .project-bg-34 {
     background-image: url(assets/img/portfolio/34.jpg);
 }
+
 .project-bg-35 {
     background-image: url(assets/img/portfolio/35.jpg);
 }
+
 .project-bg-36 {
     background-image: url(assets/img/portfolio/36.jpg);
 }
+
 .project-bg-37 {
     background-image: url(assets/img/portfolio/37.jpg);
 }
+
 .project-bg-38 {
     background-image: url(assets/img/portfolio/38.jpg);
 }
+
 .project-bg-39 {
     background-image: url(assets/img/portfolio/39.jpg);
 }
+
 .project-bg-40 {
     background-image: url(assets/img/portfolio/40.jpg);
 }
+
 .project-bg-41 {
     background-image: url(assets/img/portfolio/41.jpg);
 }
+
 .project-bg-42 {
     background-image: url(assets/img/portfolio/42.jpg);
 }
+
 .project-bg-43 {
     background-image: url(assets/img/portfolio/43.jpg);
 }
+
 .project-bg-44 {
     background-image: url(assets/img/portfolio/44.jpg);
 }
+
 .project-bg-45 {
     background-image: url(assets/img/portfolio/45.jpg);
 }
+
 .project-bg-46 {
     background-image: url(assets/img/portfolio/46.jpg);
 }
+
 .project-bg-47 {
     background-image: url(assets/img/portfolio/47.jpg);
 }
+
 .project-bg-48 {
     background-image: url(assets/img/portfolio/48.jpg);
 }
+
 .project-bg-49 {
     background-image: url(assets/img/portfolio/49.jpg);
 }
+
 .project-bg-50 {
     background-image: url(assets/img/portfolio/50.jpg);
 }
+
 .project-bg-51 {
     background-image: url(assets/img/portfolio/51.jpg);
 }
+
 .project-bg-52 {
     background-image: url(assets/img/portfolio/52.jpg);
 }
+
 .project-bg-53 {
     background-image: url(assets/img/portfolio/53.jpg);
 }
+
 .project-bg-54 {
     background-image: url(assets/img/portfolio/54.jpg);
 }
+
 .project-bg-55 {
     background-image: url(assets/img/portfolio/55.jpg);
 }
+
 .project-bg-56 {
     background-image: url(assets/img/portfolio/56.jpg);
 }
+
 .project-bg-57 {
     background-image: url(assets/img/portfolio/57.jpg);
 }
+
 .project-bg-58 {
     background-image: url(assets/img/portfolio/58.jpg);
 }
+
 .project-bg-59 {
     background-image: url(assets/img/portfolio/59.jpg);
 }
+
 .project-bg-60 {
     background-image: url(assets/img/portfolio/60.jpg);
-	}
+}
+
 .project-bg-61 {
     background-image: url(assets/img/portfolio/61.jpg);
-	}
+}
+
 .project-bg-62 {
     background-image: url(assets/img/portfolio/62.jpg);
-	}
+}
+
 .project-bg-63 {
     background-image: url(assets/img/portfolio/63.jpg);
-	}
+}
+
 .project-bg-64 {
     background-image: url(assets/img/portfolio/64.jpg);
-	}
+}
+
 .project-bg-65 {
     background-image: url(assets/img/portfolio/65.jpg);
 }
+
 .project-bg-strzepy {
     background-image: url(assets/img/portfolio/strzepy.jpg);
 }
+
 .blog-bg-1 {
     background-image: url(assets/img/blog/1.jpg);
 }
+
 .blog-bg-2 {
     background-image: url(assets/img/blog/2.jpg);
 }
+
 .blog-bg-3 {
     background-image: url(assets/img/blog/3.jpg);
 }
+
 .blog-bg-4 {
     background-image: url(assets/img/blog/4.jpg);
 }
+
 .blog-bg-5 {
     background-image: url(assets/img/blog/5.jpg);
 }
+
 .blog-bg-6 {
     background-image: url(assets/img/blog/6.jpg);
 }
+
 .blog-bg-7 {
     background-image: url(assets/img/blog/7.jpg);
 }
+
 .blog-bg-8 {
     background-image: url(assets/img/blog/8.jpg);
 }
+
 .blog-bg-9 {
     background-image: url(assets/img/blog/9.jpg);
 }
+
 .service-bg-1 {
     background-image: url(assets/img/service/1.jpg);
 }
+
 .service-bg-2 {
     background-image: url(assets/img/service/2.jpg);
 }
+
 .service-bg-3 {
     background-image: url(assets/img/service/3.jpg);
 }
+
 .service-bg-4 {
     background-image: url(assets/img/service/4.jpg);
 }
+
+
 /*************************
 02. Header area
 *************************/
@@ -343,32 +439,37 @@ Please do not change anything here! write in a custom.css file if required!
     position: absolute;
     top: 0px;
 }
+
 .header-area {
-	padding: 30px 0 20px;
-	position: absolute;
+    padding: 30px 0 20px;
+    position: absolute;
     top: 15px;
     width: 100%;
     height: 80px;
-	z-index: 9999;
-	-webkit-transition: all 0.3s ease 0s;
-	transition: all 0.3s ease 0s;
+    z-index: 9999;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
 }
+
 .logo a {
     color: #fff;
     display: inline-block;
 }
+
 .logo a h2 {
     display: inline-block;
     margin: 0;
     font-weight: 500;
     text-transform: uppercase;
 }
+
 .logo a h2 span {
     background-color: #fff;
     color: #222;
     display: inline-block;
     padding: 5px 10px;
 }
+
 .menu-bar {
     cursor: pointer;
     position: relative;
@@ -379,6 +480,7 @@ Please do not change anything here! write in a custom.css file if required!
     float: right;
     margin-top: 15px;
 }
+
 .menu-bar span {
     background-color: #fff;
     display: block;
@@ -388,6 +490,7 @@ Please do not change anything here! write in a custom.css file if required!
     transition: all 0.3s ease 0s;
     width: 30px;
 }
+
 .mainmenu {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -400,6 +503,7 @@ Please do not change anything here! write in a custom.css file if required!
     transition: all 0.3s ease 0s;
     visibility: hidden;
 }
+
 .mainmenu.menu-open {
     position: relative;
     opacity: 1;
@@ -407,10 +511,12 @@ Please do not change anything here! write in a custom.css file if required!
     right: 15px;
     visibility: visible;
 }
+
 .mainmenu ul li {
     display: inline-block;
     position: relative;
 }
+
 .mainmenu ul li a {
     color: #fff;
     display: block;
@@ -422,15 +528,18 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     text-transform: uppercase;
 }
+
 .mainmenu ul li:hover a,
-.mainmenu ul li.active > a {
+.mainmenu ul li.active>a {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
-.nav > li > a:focus,
-.nav > li > a:hover {
+
+.nav>li>a:focus,
+.nav>li>a:hover {
     background-color: transparent;
 }
+
 .menu-bar:after,
 .menu-bar:before {
     background-color: #fff;
@@ -445,18 +554,23 @@ Please do not change anything here! write in a custom.css file if required!
     transition: all 0.3s ease 0s;
     width: 30px;
 }
+
 .menu-bar.menu-close:after {
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
 }
+
 .menu-bar.menu-close:before {
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
 }
+
 .menu-bar.menu-close span {
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
+
+
 /*************************
 02.1 Submenu & Megamenu
 *************************/
@@ -479,20 +593,24 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transform-origin: 0 0 0;
     transform-origin: 0 0 0;
 }
-.mainmenu > ul > li:last-child > ul {
+
+.mainmenu>ul>li:last-child>ul {
     left: auto;
     right: 0;
 }
-.mainmenu ul li:hover > ul,
-.mainmenu ul li:hover > .mega-menu {
+
+.mainmenu ul li:hover>ul,
+.mainmenu ul li:hover>.mega-menu {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
     top: 100%;
 }
+
 .mainmenu ul ul li {
     display: block;
 }
+
 .mainmenu ul ul li a,
 .mainmenu ul li.has-mega .mega-menu span a {
     color: #222;
@@ -501,60 +619,74 @@ Please do not change anything here! write in a custom.css file if required!
     padding: 8px 10px 8px 20px;
     border-bottom: 1px solid #eee;
 }
-.mainmenu ul ul li:last-child > a {
+
+.mainmenu ul ul li:last-child>a {
     border-bottom: 0px;
 }
-.mainmenu ul ul li:hover > a {
+
+.mainmenu ul ul li:hover>a {
     background-color: #eee;
     padding-left: 23px;
 }
+
 .mainmenu ul ul li a:after {
     content: "";
 }
-.mainmenu ul ul li > ul {
+
+.mainmenu ul ul li>ul {
     left: -100%;
     top: 50%;
     -webkit-transform-origin: 100% 50% 0;
     transform-origin: 100% 50% 0;
 }
-.mainmenu ul ul li:hover > ul {
+
+.mainmenu ul ul li:hover>ul {
     top: 20%;
 }
+
 .mainmenu ul li.has-mega {
     position: static;
 }
+
 .mainmenu ul li.has-mega .mega-menu {
     width: 100%;
     left: 0;
     padding: 20px 0px;
 }
+
 .mainmenu ul li.has-mega .mega-menu span {
     width: 25%;
     float: left;
     padding: 0px 20px;
     border-left: 1px solid #eee;
 }
+
 .mainmenu ul li.has-mega .mega-menu span a {
     padding-left: 0px;
     padding-right: 0px;
 }
+
 .mainmenu ul li.has-mega .mega-menu span a:last-child {
     border-bottom: 0px;
 }
+
 .mainmenu ul li.has-mega .mega-menu span a:hover {
     padding-left: 3px;
 }
+
 .mainmenu ul li span a.active {
     font-weight: 600;
 }
-.mainmenu ul ul li.active > a {
+
+.mainmenu ul ul li.active>a {
     background-color: #eee;
     font-weight: 600;
 }
+
 .mainmenu ul li.parent:after,
 .mainmenu ul li.parent:before,
-.mainmenu ul li.has-mega > a:before,
-.mainmenu ul li.has-mega > a:after {
+.mainmenu ul li.has-mega>a:before,
+.mainmenu ul li.has-mega>a:after {
     content: "";
     width: 11px;
     height: 1px;
@@ -565,6 +697,7 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: 0.3s;
     transition: 0.3s;
 }
+
 .mainmenu ul li.parent:before,
 .mainmenu ul li.has-mega a:before {
     width: 1px;
@@ -572,23 +705,29 @@ Please do not change anything here! write in a custom.css file if required!
     right: 20px;
     top: 19px;
 }
+
 .mainmenu ul li.parent:hover:before,
-.mainmenu ul li.has-mega:hover > a:before {
+.mainmenu ul li.has-mega:hover>a:before {
     height: 0;
 }
+
 .mainmenu ul ul li.parent:after,
 .mainmenu ul ul li.parent:before {
     background-color: #222;
     right: 18px;
     top: 17px;
 }
+
 .mainmenu ul ul li.parent:after {
     right: 13px;
     top: 22px;
 }
+
 .mainmenu ul ul li.parent:hover:before {
     height: 0px;
 }
+
+
 /*************************
 02.2 Sticky menu
 *************************/
@@ -600,30 +739,36 @@ Please do not change anything here! write in a custom.css file if required!
     position: fixed;
     top: 0;
 }
+
 .header-area.stick .logo a {
     color: #222;
     margin-top: 2px;
     position: relative;
     z-index: 9999999;
 }
+
 .header-area.stick .logo a h2 span {
     background-color: #222;
     color: #fff;
 }
+
 .header-area.stick .mainmenu ul li a,
 .stick .mean-container a.meanmenu-reveal {
     color: #222;
 }
+
 .header-area.stick .menu-bar:after,
 .header-area.stick .menu-bar:before,
 .header-area.stick .menu-bar span,
 .stick .mainmenu ul li.parent:after,
 .stick .mainmenu ul li.parent:before,
-.stick .mainmenu ul li.has-mega > a:before,
-.stick .mainmenu ul li.has-mega > a:after,
+.stick .mainmenu ul li.has-mega>a:before,
+.stick .mainmenu ul li.has-mega>a:after,
 .stick .mean-container a.meanmenu-reveal span {
     background-color: #222;
 }
+
+
 /*************************
 02.3 Hidden menu bar
 *************************/
@@ -636,6 +781,8 @@ Please do not change anything here! write in a custom.css file if required!
     padding-right: 0;
     position: relative;
 }
+
+
 /*************************
 02.4 Onepage side menu
 *************************/
@@ -649,35 +796,47 @@ Please do not change anything here! write in a custom.css file if required!
     width: 15%;
     z-index: 99;
 }
+
 .left-side-wrapper .logo {
     text-align: center;
 }
+
 .left-side-wrapper .mainmenu ul li {
     display: block;
 }
-.left-side-wrapper .mainmenu ul li a {} .left-side-wrapper .mainmenu {
+
+.left-side-wrapper .mainmenu ul li a {}
+
+.left-side-wrapper .mainmenu {
     margin-top: 50px;
     position: relative;
 }
-.left-side-wrapper .mainmenu ul li > a:after,
-.left-side-wrapper .mainmenu ul li.active > a:after {
+
+.left-side-wrapper .mainmenu ul li>a:after,
+.left-side-wrapper .mainmenu ul li.active>a:after {
     bottom: -5px;
     left: 20px;
     right: auto;
 }
+
 .right-side-wrapper {
     margin-left: 15%;
     width: 85%;
 }
+
 .right-side-wrapper .container-fluid {
     padding: 0% 10%;
 }
+
 .right-side-wrapper .container-fluid .single-project-item {
     height: 370px;
 }
+
 .right-side-wrapper .container-fluid .single-project-item.large {
     height: 460px;
 }
+
+
 /*************************
 02.5 Onepage Menu
 *************************/
@@ -686,12 +845,14 @@ Please do not change anything here! write in a custom.css file if required!
     padding-right: 10px;
     padding-left: 10px;
 }
+
 .mainmenu.one-page-menu ul li:hover a:after,
 .mainmenu.one-page-menu ul li.active a:after {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     width: 90%;
 }
+
 .mainmenu.one-page-menu ul li a:after {
     width: 0%;
     height: 1px;
@@ -706,9 +867,12 @@ Please do not change anything here! write in a custom.css file if required!
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
+
 .stick .mainmenu.one-page-menu ul li a:after {
     background-color: #222;
 }
+
+
 /*************************
 02.6 Mobile Menu
 *************************/
@@ -716,6 +880,8 @@ Please do not change anything here! write in a custom.css file if required!
 .slicknav_menu {
     display: none;
 }
+
+
 /*************************
 03. hero wrapper
 *************************/
@@ -725,12 +891,15 @@ Please do not change anything here! write in a custom.css file if required!
     width: 100%;
     top: 0;
 }
+
 .content-wrapper {
     position: relative;
     z-index: 999;
     margin-top: 400px;
     background-color: #fff;
 }
+
+
 /*************************
 03.1 Hero area
 *************************/
@@ -744,6 +913,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .hero-area:after,
 .slider-area .single-hero-item:after {
     background-color: #000;
@@ -757,39 +927,47 @@ Please do not change anything here! write in a custom.css file if required!
     width: 100%;
     z-index: -1;
 }
+
 .single-hero-item {
     height: 100vh;
     color: #fff;
 }
+
 .display-table {
     display: table;
     height: 100%;
     width: 100%;
 }
+
 .display-table-cell {
     display: table-cell;
     vertical-align: middle;
 }
+
 .single-hero-item h1,
 .single-hero-item h2,
 .single-hero-item h3 {
     font-weight: 600;
 }
+
 .single-hero-item h1 {
     font-size: 60px;
     letter-spacing: 15px;
     margin-bottom: 25px;
     text-transform: uppercase;
 }
+
 .single-hero-item h2 {
     font-size: 36px;
     font-weight: 400;
     letter-spacing: 3px;
     text-transform: capitalize;
 }
+
 .single-hero-item h2 span.cd-words-wrapper {
     text-transform: uppercase;
 }
+
 .single-hero-item h3 {
     font-family: "Playfair Display", serif;
     font-size: 28px;
@@ -797,6 +975,7 @@ Please do not change anything here! write in a custom.css file if required!
     margin-bottom: 20px;
     letter-spacing: 2px;
 }
+
 .single-hero-item .bordered-btn {
     border-color: #fff;
     color: #fff;
@@ -804,12 +983,15 @@ Please do not change anything here! write in a custom.css file if required!
     padding: 15px 40px;
     margin-top: 30px;
 }
+
 .single-hero-item .bordered-btn:hover {
     color: #222;
 }
+
 .single-hero-item .bordered-btn:after {
     background-color: #f5f5f5;
 }
+
 @-webkit-keyframes scroll_next {
     0% {
         bottom: 40px;
@@ -818,6 +1000,7 @@ Please do not change anything here! write in a custom.css file if required!
         bottom: 20px;
     }
 }
+
 @keyframes scroll_next {
     0% {
         bottom: 40px;
@@ -826,6 +1009,7 @@ Please do not change anything here! write in a custom.css file if required!
         bottom: 20px;
     }
 }
+
 .scroll-next {
     bottom: 20px;
     color: #fff;
@@ -843,14 +1027,18 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-animation: scroll_next 1s linear 0s infinite normal;
     animation: scroll_next 1s linear 0s infinite normal;
 }
+
 .scroll-next:hover {
     color: #fff;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
 .scroll-next:focus {
     color: #fff;
 }
+
+
 /*************************
 03.2 Particles
 *************************/
@@ -859,6 +1047,8 @@ Please do not change anything here! write in a custom.css file if required!
     position: absolute;
     z-index: -1;
 }
+
+
 /*************************
 03.3 Slider style 1
 *************************/
@@ -881,10 +1071,12 @@ Please do not change anything here! write in a custom.css file if required!
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     visibility: hidden;
 }
+
 .slider-style-1.owl-carousel .owl-nav div.owl-next {
     left: auto;
     right: 30px;
 }
+
 .slider-style-1.owl-carousel:hover .owl-nav div,
 .slider-style-2.owl-carousel:hover .owl-nav div,
 .slider-style-3.owl-carousel:hover .owl-nav div {
@@ -893,12 +1085,14 @@ Please do not change anything here! write in a custom.css file if required!
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
 }
+
 .slider-style-1.owl-carousel:hover .owl-nav div.owl-next,
 .slider-style-2.owl-carousel:hover .owl-nav div.owl-next,
 .slider-style-3.owl-carousel:hover .owl-nav div.owl-next {
     right: 0;
     left: auto;
 }
+
 .slider-style-1.owl-carousel .owl-dots,
 .slider-style-2.owl-carousel .owl-dots,
 .slider-style-3.owl-carousel .owl-dots {
@@ -914,6 +1108,7 @@ Please do not change anything here! write in a custom.css file if required!
     transition: 0.3s;
     visibility: visible;
 }
+
 .slider-style-1.owl-carousel .owl-dots .owl-dot span,
 .slider-style-2.owl-carousel .owl-dots .owl-dot span,
 .slider-style-3.owl-carousel .owl-dots .owl-dot span {
@@ -926,17 +1121,20 @@ Please do not change anything here! write in a custom.css file if required!
     opacity: 0.6;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 }
+
 .slider-style-1.owl-carousel .owl-dots .owl-dot,
 .slider-style-2.owl-carousel .owl-dots .owl-dot,
 .slider-style-3.owl-carousel .owl-dots .owl-dot {
     display: inline-block;
     margin: 0px 5px;
 }
+
 .slider-style-1.owl-carousel .owl-dots .owl-dot.active span {
     width: 50px;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
 .slider-style-1.owl-carousel:hover .owl-dots,
 .slider-style-2.owl-carousel:hover .owl-dots,
 .slider-style-3.owl-carousel:hover .owl-dots {
@@ -945,6 +1143,8 @@ Please do not change anything here! write in a custom.css file if required!
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     bottom: 20px;
 }
+
+
 /*************************
 03.4 Slider style 2
 *************************/
@@ -963,19 +1163,31 @@ Please do not change anything here! write in a custom.css file if required!
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     visibility: hidden;
 }
+
 .slider-style-2.owl-carousel .owl-nav div.owl-next,
 .slider-style-3.owl-carousel .owl-nav div.owl-next {
     left: auto;
     right: 10px;
 }
+
 .slider-style-2.owl-carousel:hover .owl-nav div.owl-next,
 .slider-style-3.owl-carousel:hover .owl-nav div.owl-next {
-    right: 50px;
+    right: 70px;
 }
+
+.slider-style-2.owl-carousel .owl-nav div.owl-prev {
+    left: -80px;
+}
+
+.slider-style-2.owl-carousel:hover .owl-nav div.owl-prev {
+    left: -50px;
+}
+
 .slider-style-2.owl-carousel .owl-nav div i,
 .slider-style-3.owl-carousel .owl-nav div i {
     font-size: 0;
 }
+
 .slider-style-2.owl-carousel .owl-nav div.owl-next:after,
 .slider-style-2.owl-carousel .owl-nav div.owl-prev:after,
 .slider-style-3.owl-carousel .owl-nav div.owl-next:after,
@@ -994,10 +1206,12 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
 .slider-style-2.owl-carousel .owl-nav div.owl-prev:after,
 .slider-style-3.owl-carousel .owl-nav div.owl-prev:after {
     content: "prev";
 }
+
 .slider-style-2.owl-carousel .owl-nav div.owl-next:hover:after,
 .slider-style-2.owl-carousel .owl-nav div.owl-prev:hover:after,
 .slider-style-3.owl-carousel .owl-nav div.owl-next:hover:after,
@@ -1005,17 +1219,21 @@ Please do not change anything here! write in a custom.css file if required!
     background-color: #fff;
     color: #454545;
 }
+
 .slider-style-2.owl-carousel .owl-dots .owl-dot span,
 .slider-style-3.owl-carousel .owl-dots .owl-dot span {
     height: 15px;
     width: 15px;
     border-radius: 50%;
 }
+
 .slider-style-2.owl-carousel .owl-dots .owl-dot.active span,
 .slider-style-3.owl-carousel .owl-dots .owl-dot.active span {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
+
 /*************************
 03.5 Slider style 3
 *************************/
@@ -1023,6 +1241,7 @@ Please do not change anything here! write in a custom.css file if required!
 .slider-style-3.owl-carousel .owl-nav div {
     top: 85%;
 }
+
 .slider-style-3.owl-carousel .owl-nav div.owl-next:after,
 .slider-style-3.owl-carousel .owl-nav div.owl-prev:after {
     font-size: 14px;
@@ -1030,9 +1249,12 @@ Please do not change anything here! write in a custom.css file if required!
     font-weight: 400;
     padding: 5px 15px;
 }
+
 .slider-style-3.owl-carousel .owl-dots .owl-dot span {
     border-radius: 0px;
 }
+
+
 /*************************
 04. About area
 *************************/
@@ -1040,9 +1262,12 @@ Please do not change anything here! write in a custom.css file if required!
 #about .col-md-6:first-child {
     padding-right: 35px;
 }
+
 #about .col-md-6:last-child {
     padding-left: 35px;
 }
+
+
 /*************************
 04.1 Accordion
 *************************/
@@ -1051,11 +1276,13 @@ Please do not change anything here! write in a custom.css file if required!
 .about-content .about-tab {
     margin-top: 30px;
 }
+
 #accordion .accordion-panel.panel {
     border: 1px solid #ddd;
     padding: 0 20px;
     border-radius: 0px;
 }
+
 .panel-title span {
     display: block;
     float: left;
@@ -1064,6 +1291,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     width: 16px;
 }
+
 .panel-title a span:after {
     background-color: #454545;
     content: "";
@@ -1074,10 +1302,12 @@ Please do not change anything here! write in a custom.css file if required!
     transition: all 0.3s ease 0s;
     width: 100%;
 }
+
 .panel-title a span:before {
     height: 0px;
     top: 8px;
 }
+
 .panel-title a.collapsed span:before {
     background-color: #454545;
     content: "";
@@ -1089,11 +1319,13 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
 .panel-title {
     font-size: 14px;
     position: relative;
     margin: 0px -20px;
 }
+
 .panel-title a {
     border: 1px solid transparent;
     display: inline-block;
@@ -1103,23 +1335,30 @@ Please do not change anything here! write in a custom.css file if required!
     text-transform: uppercase;
     width: 100%;
 }
+
 .panel-title a[aria-expanded="true"] {
     border-bottom-color: #ddd;
 }
+
 .about-content p {
     margin-bottom: 20px;
     margin-top: 10px;
 }
+
 .about-content .about-buttons {
     margin-top: 30px;
 }
+
 .about-content .about-buttons a {
     margin-right: 30px;
 }
+
 .about-content .about-buttons a:last-child {
-	margin-right: 0;
-	text-align: center;
+    margin-right: 0;
+    text-align: center;
 }
+
+
 /*************************
 04.2 Tab
 *************************/
@@ -1128,12 +1367,15 @@ Please do not change anything here! write in a custom.css file if required!
     border: 1px solid #eee;
     padding-bottom: 20px;
 }
+
 .tab-list {
     background-color: #f5f5f5;
 }
+
 .tab-list li {
     display: inline-block;
 }
+
 .tab-list li a {
     display: block;
     text-transform: uppercase;
@@ -1142,19 +1384,25 @@ Please do not change anything here! write in a custom.css file if required!
     letter-spacing: 2px;
     padding: 5px 15px;
 }
+
 .tab-list li.active a {
     background-color: #fff;
 }
+
 .tab-content {
     padding: 20px;
 }
+
 .tab-content h3 {
     text-transform: capitalize;
     letter-spacing: 1px;
 }
+
 .tab-content p:last-child {
     margin-bottom: 0px;
 }
+
+
 /*************************
 04.3 Skill
 *************************/
@@ -1163,6 +1411,7 @@ Please do not change anything here! write in a custom.css file if required!
     overflow: hidden;
     padding-top: 26px;
 }
+
 .skill .progress {
     background-color: #ddd;
     border-radius: 3px;
@@ -1172,6 +1421,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     margin-bottom: 60px;
 }
+
 .skill .progress .title {
     left: 0;
     position: absolute;
@@ -1181,6 +1431,7 @@ Please do not change anything here! write in a custom.css file if required!
     letter-spacing: 2px;
     font-size: 13px;
 }
+
 .skill .progress .progress-bar {
     background-color: #454545;
     border-radius: 3px;
@@ -1189,6 +1440,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     text-align: right;
 }
+
 .skill .progress-bar span {
     background-color: #454545;
     margin-top: -26px;
@@ -1200,8 +1452,9 @@ Please do not change anything here! write in a custom.css file if required!
     letter-spacing: 1px;
     font-weight: 400;
 }
-.skill .progress-bar > span:before,
-.skill .progress-bar > span:after {
+
+.skill .progress-bar>span:before,
+.skill .progress-bar>span:after {
     border: medium solid transparent;
     content: " ";
     height: 0;
@@ -1210,23 +1463,29 @@ Please do not change anything here! write in a custom.css file if required!
     top: 100%;
     width: 0;
 }
-.skill .progress-bar > span:before {
+
+.skill .progress-bar>span:before {
     border-top-color: #454545;
     border-width: 5px;
     margin-left: 5px;
     top: 20px;
 }
+
+
 /*************************
 05. Works area
 *************************/
+
+
 /*************************
 05.1 Works filter
 *************************/
 
 .project-filter {
-	margin-bottom: 60px;
-	text-align: center;
+    margin-bottom: 60px;
+    text-align: center;
 }
+
 .project-filter li {
     cursor: pointer;
     display: inline-block;
@@ -1238,19 +1497,24 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
 .project-filter.style-2 li:after {
     color: #222;
     content: "/";
     position: absolute;
     right: -15px;
 }
+
 .project-filter.style-2 li:last-child:after {
     content: "";
 }
+
 .project-filter li.active {
     background-color: #454545;
     color: #fff;
 }
+
+
 /*************************
 05.2 Work items
 *************************/
@@ -1269,12 +1533,15 @@ Please do not change anything here! write in a custom.css file if required!
     width: 100%;
     z-index: 1;
 }
+
 .single-project-item.large {
     height: 400px;
 }
+
 .single-project-item.small {
     height: 250px;
 }
+
 .project-hover {
     display: table-cell;
     opacity: 0;
@@ -1289,6 +1556,7 @@ Please do not change anything here! write in a custom.css file if required!
     visibility: hidden;
     z-index: 1;
 }
+
 .project-hover:after {
     background-color: #222;
     content: "";
@@ -1306,6 +1574,7 @@ Please do not change anything here! write in a custom.css file if required!
     width: 100%;
     z-index: -1;
 }
+
 .single-project-item:hover .project-hover:after,
 .single-project-item-2:hover .project-hover:after {
     opacity: 0.7;
@@ -1314,6 +1583,7 @@ Please do not change anything here! write in a custom.css file if required!
     transform: scaleX(1);
     visibility: visible;
 }
+
 .project-hover .project-buttons a {
     background-color: #fff;
     color: #222;
@@ -1324,9 +1594,11 @@ Please do not change anything here! write in a custom.css file if required!
     margin: 0 3px;
     width: 45px;
 }
+
 .project-hover .project-buttons a:hover {
     border-radius: 50%;
 }
+
 .single-project-item:hover .project-hover,
 .single-project-item-2:hover .project-hover {
     opacity: 1;
@@ -1335,22 +1607,28 @@ Please do not change anything here! write in a custom.css file if required!
     transform: translateY(0px);
     visibility: visible;
 }
+
 .project-hover h3 {
     margin-bottom: 5px;
     margin-top: 20px;
 }
+
 .project-hover h3 a {
     color: #fff;
     font-size: 21px;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
 .project-hover p:last-child {
     margin-bottom: 0;
 }
+
 .see-all-btn {
     margin-top: 40px;
 }
+
+
 /*************************
 05.3 Work items 2
 *************************/
@@ -1358,13 +1636,16 @@ Please do not change anything here! write in a custom.css file if required!
 .single-project-item-2 {
     margin-bottom: 30px;
 }
+
 .single-project-item-2 .portfolio-img {
     margin-bottom: 10px;
 }
+
 .single-project-item-2 .project-hover {
     -webkit-transform: translateY(-30px);
     transform: translateY(-30px);
 }
+
 .single-project-item-2 .project-hover:after {
     height: 0;
     -webkit-transform: scaleX(1);
@@ -1372,23 +1653,30 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
 }
+
 .single-project-item-2:hover .project-hover:after {
     height: 100%;
 }
+
 .single-project-item-2 .project-details h3 a {
     color: #222;
     letter-spacing: 1px;
     text-transform: capitalize;
 }
+
 .single-project-item-2 .project-details h3 {
     margin-bottom: 5px;
 }
+
 .single-project-item-2 .project-details p {
     margin-bottom: 0;
 }
+
 .single-project-item-2 .project-details {
     padding-left: 10px;
 }
+
+
 /*************************
 05.4 All layouts
 *************************/
@@ -1397,48 +1685,62 @@ Please do not change anything here! write in a custom.css file if required!
 .container-fluid .single-project-item-2 .portfolio-img {
     height: 550px;
 }
+
 .container-fluid .single-project-item.large {
     height: 670px;
 }
+
 .container-fluid .single-project-item.small {
     height: 415px;
 }
+
 .gird-2 .single-project-item,
 .gird-2 .single-project-item-2 .portfolio-img {
     height: 500px;
 }
+
 .gird-4 .single-project-item,
 .gird-4 .single-project-item-2 .portfolio-img {
     height: 250px;
 }
+
 .container-fluid .gird-4 .single-project-item,
 .container-fluid .gird-4 .single-project-item-2 .portfolio-img {
     height: 320px;
 }
+
 .row.gutter-less {
     margin: 0;
 }
+
 .row.gutter-less .col-md-3,
 .row.gutter-less .col-md-4,
 .row.gutter-less .col-md-6 {
     padding: 0;
 }
+
 .row.gutter-less .single-project-item,
 .row.gutter-less .single-project-item-2 .portfolio-img {
     margin-bottom: 0;
 }
+
 .gird-4 .single-project-item.small {
     height: 180px;
 }
+
 .gird-4 .single-project-item.large {
     height: 290px;
 }
+
 .container-fluid .gird-4 .single-project-item.small {
     height: 310px;
 }
+
 .container-fluid .gird-4 .single-project-item.large {
     height: 500px;
 }
+
+
 /*************************
 05.5 Work details
 *************************/
@@ -1446,17 +1748,21 @@ Please do not change anything here! write in a custom.css file if required!
 .portfolio-multiple-img .item-img {
     margin-bottom: 30px;
 }
+
 .portfolio-details-info.top {
     margin-top: 0;
     margin-bottom: 50px;
 }
+
 .portfolio-details-info {
     margin-top: 50px;
 }
+
 .short-description h4 {
     text-transform: capitalize;
     font-size: 16px;
 }
+
 .short-description h4 span {
     font-size: 90%;
     letter-spacing: 1px;
@@ -1465,26 +1771,33 @@ Please do not change anything here! write in a custom.css file if required!
     opacity: 0.9;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 }
+
 .short-description h4 span a {
     color: inherit;
 }
+
 .portfolio-details-info .description h3 {
     text-transform: uppercase;
 }
+
 .portfolio-details-info .description h4 {
     text-transform: capitalize;
     color: #777;
 }
+
 .portfolio-details-info .description p:last-child {
     margin: 0px;
 }
+
 .related-slider {
     box-shadow: 0 0 25px -10px #ddd;
     overflow: hidden;
 }
+
 .related-items.owl-carousel .owl-stage-outer {
     overflow: inherit;
 }
+
 .related-items.owl-carousel .owl-stage-outer:after,
 .related-items.owl-carousel .owl-stage-outer:before {
     content: "";
@@ -1498,10 +1811,12 @@ Please do not change anything here! write in a custom.css file if required!
     top: 0;
     left: calc( -500% - 5px);
 }
+
 .related-items.owl-carousel .owl-stage-outer:before {
     left: auto;
     right: calc( -500% - 5px);
 }
+
 .related-items.owl-carousel .owl-controls .owl-nav div,
 .item-imgs.owl-carousel .owl-controls .owl-nav div {
     position: absolute;
@@ -1520,17 +1835,20 @@ Please do not change anything here! write in a custom.css file if required!
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     font-size: 18px;
 }
+
 .related-items.owl-carousel .owl-controls .owl-nav div.owl-next,
 .item-imgs.owl-carousel .owl-controls .owl-nav div.owl-next {
     left: auto;
     right: -85px;
 }
+
 .related-slider:hover .related-items.owl-carousel .owl-controls .owl-nav div,
 .item-imgs:hover .owl-controls .owl-nav div {
     left: -65px;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
 }
+
 .related-slider:hover .related-items.owl-carousel .owl-controls .owl-nav div.owl-next,
 .item-imgs:hover .owl-controls .owl-nav div.owl-next {
     right: -65px;
@@ -1538,11 +1856,13 @@ Please do not change anything here! write in a custom.css file if required!
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
 }
+
 .single-related-item {
     display: block;
     position: relative;
     z-index: 2;
 }
+
 .single-related-item:after {
     position: absolute;
     width: 100%;
@@ -1557,14 +1877,17 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: 0.3s;
     transition: 0.3s;
 }
+
 .single-related-item:hover:after {
     opacity: 0.5;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
+
 .single-ralated-item .project-title {
     position: absolute;
     bottom: 0px;
 }
+
 .single-related-item .project-title {
     position: absolute;
     bottom: 0;
@@ -1579,12 +1902,15 @@ Please do not change anything here! write in a custom.css file if required!
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     z-index: 1;
 }
+
 .single-related-item:hover .project-title {
     left: 30px;
     bottom: 30px;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
+
 /*************************
 06. Contact area
 *************************/
@@ -1593,6 +1919,7 @@ Please do not change anything here! write in a custom.css file if required!
 .contact-form textarea {
     margin-bottom: 20px;
 }
+
 .find-info li {
     letter-spacing: 1px;
     margin-bottom: 25px;
@@ -1600,6 +1927,7 @@ Please do not change anything here! write in a custom.css file if required!
     padding-left: 45px;
     position: relative;
 }
+
 .find-info li:after {
     background-color: #ccc;
     bottom: 0;
@@ -1609,15 +1937,18 @@ Please do not change anything here! write in a custom.css file if required!
     position: absolute;
     width: 85%;
 }
+
 .find-info li:last-child {
     margin: 0;
 }
+
 .find-info li i {
     font-size: 30px;
     left: 0;
     position: absolute;
     top: -2px;
 }
+
 .find-info li a {
     color: #222;
     display: block;
@@ -1625,10 +1956,13 @@ Please do not change anything here! write in a custom.css file if required!
     font-weight: 300;
     letter-spacing: 1px;
 }
+
 .find-info li a:hover,
 .widget-content a:hover {
     padding-left: 3px;
 }
+
+
 /*************************
 06.1 Google Map
 *************************/
@@ -1636,9 +1970,11 @@ Please do not change anything here! write in a custom.css file if required!
 .contact-google-map {
     position: relative;
 }
+
 .contact-google-map .contact-form {
     padding-right: 30px;
 }
+
 .contact-google-map #google-map {
     height: 100%;
     position: absolute;
@@ -1646,6 +1982,8 @@ Please do not change anything here! write in a custom.css file if required!
     top: 0;
     right: 0;
 }
+
+
 /*************************
 06.2 Contact info
 *************************/
@@ -1654,18 +1992,22 @@ Please do not change anything here! write in a custom.css file if required!
     border-bottom: 1px solid #eee;
     box-shadow: 0px 5px 30px -30px #000;
 }
+
 .single-contact-info {
     font-size: 15px;
 }
+
 .contact-info-title {
     margin-bottom: 50px;
     border-bottom: 2px solid #EFEFEF;
 }
+
 .contact-info-title h2 {
     color: #333;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
 .single-contact-info h3 {
     border-bottom: 2px solid #efefef;
     color: #333;
@@ -1674,41 +2016,53 @@ Please do not change anything here! write in a custom.css file if required!
     font-size: 20px;
     text-transform: capitalize;
 }
+
 .single-contact-info h3 i {
     margin-right: 15px;
 }
+
 .single-contact-info p:last-child {
     margin-bottom: 0;
 }
+
 .single-contact-info p a {
     color: #222;
     font-weight: 500;
     font-size: 18px;
     margin: 0px 8px;
 }
+
+
 /*************************
 06.3 Contact form message
 *************************/
 
 .form-messege {
-  margin-bottom: 0px;
+    margin-bottom: 0px;
 }
+
 .form-messege.success {
-  background-color: #1BA261;
+    background-color: #1BA261;
 }
+
 .form-messege.error {
-  background-color: #f00;
+    background-color: #f00;
 }
-.form-messege.success, .form-messege.error {
-  color: #fff;
-  font-weight: 500;
-  margin-top: 10px;
-  padding: 5px 20px;
+
+.form-messege.success,
+.form-messege.error {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 10px;
+    padding: 5px 20px;
 }
+
 
 /*************************
 07. Service area
 *************************/
+
+
 /*************************
 07.1 Service style 1
 *************************/
@@ -1717,33 +2071,42 @@ Please do not change anything here! write in a custom.css file if required!
     border-left: 1px solid #eee;
     border-top: 1px solid #eee;
 }
+
 .service-style-1 .row,
 .service-style-3 .row {
     margin: 0;
 }
+
 .service-style-1 .col-md-4,
 .service-style-3 .col-md-6 {
     padding: 0;
 }
+
 .single-service-item p:last-child {
-	margin-bottom: 0;
-	text-align: left;
+    margin-bottom: 0;
+    text-align: left;
 }
+
 .service-style-1 .single-service-item {
     border-bottom: 1px solid #eee;
     border-right: 1px solid #eee;
 }
+
 .single-service-item i {
     font-size: 60px;
 }
+
 .single-service-item h4 {
     text-transform: uppercase;
     margin-top: 5px;
     letter-spacing: 1px;
 }
+
 .service-style-1 .single-service-item:hover {
     box-shadow: 0px 20px 50px #ddd;
 }
+
+
 /*************************
 07.2 Service style 2
 *************************/
@@ -1754,6 +2117,7 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
 .single-service-item2 {
     height: 310px;
     padding: 20px 20px 0;
@@ -1762,20 +2126,24 @@ Please do not change anything here! write in a custom.css file if required!
 }
 
 .service-style-2 .single-service-item {
-	border: 1px solid #eee;
-	margin-bottom: 30px;
-	text-align: center;
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+    text-align: center;
 }
+
 .service-style-2 .col-md-4:nth-child(4) .single-service-item,
 .service-style-2 .col-md-4:nth-child(5) .single-service-item,
 .service-style-2 .col-md-4:nth-child(6) .single-service-item {
     margin-bottom: 0;
 }
+
 .service-style-2 .single-service-item:hover {
     background-color: #454545;
     border-color: #454545;
     color: #fff;
 }
+
+
 /*************************
 07.3 Service style 3
 *************************/
@@ -1788,11 +2156,13 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .service-style-3 .single-service-item {
     background-color: #ccc;
     padding: 20px 15px 0px;
     color: #000;
 }
+
 .service-bg:before {
     background-color: #ccc;
     content: "";
@@ -1807,21 +2177,27 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: 0.3s;
     transition: 0.3s;
 }
+
 .service-bg.right:before {
     right: auto;
     left: -20px;
 }
+
 .service-style-3 .col-md-6:hover .service-bg:before {
     background-color: #333;
 }
+
 .service-style-3 .col-md-6:hover .single-service-item {
     background-color: #333;
     color: #fff;
 }
+
 .service-style-3 .col-md-6:hover .service-bg:after {
     opacity: 0.2;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
 }
+
+
 /*************************
 08. Testimonial
 *************************/
@@ -1829,6 +2205,7 @@ Please do not change anything here! write in a custom.css file if required!
 .testimonial-area .single-testimonial {
     margin-bottom: 40px;
 }
+
 .single-testimonial {
     background-color: #f2f2f2;
     color: #333;
@@ -1839,9 +2216,11 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
 .single-testimonial:hover {
     box-shadow: 0 1px 5px #ccc;
 }
+
 .single-testimonial .quote {
     background-color: #f2f2f2;
     border: 5px solid #fff;
@@ -1858,6 +2237,7 @@ Please do not change anything here! write in a custom.css file if required!
     top: 0;
     width: 90px;
 }
+
 .single-testimonial .spech {
     color: #555;
     font-size: 16px;
@@ -1867,6 +2247,7 @@ Please do not change anything here! write in a custom.css file if required!
     margin-bottom: 15px;
     padding-bottom: 15px;
 }
+
 .single-testimonial .spech:after {
     background-color: #bababa;
     bottom: 0;
@@ -1878,10 +2259,13 @@ Please do not change anything here! write in a custom.css file if required!
     right: 0;
     width: 33%;
 }
+
 .client-info h4 {
     margin-bottom: 0;
     text-transform: capitalize;
 }
+
+
 /*************************
 09. Breadcrumb area
 *************************/
@@ -1897,6 +2281,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .breadcrumb-area-2 {
     background-image: url(assets/img/breadcrumb/breadcrumb-bg2.jpg);
     background-color: #ddd;
@@ -1908,6 +2293,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .breadcrumb-area-3 {
     background-image: url(assets/img/breadcrumb/breadcrumb-bg3.jpg);
     background-color: #ddd;
@@ -1919,6 +2305,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .breadcrumb-area-4 {
     background-image: url(assets/img/breadcrumb/breadcrumb-bg4.jpg);
     background-color: #ddd;
@@ -1930,6 +2317,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .breadcrumb-area-5 {
     background-image: url(assets/img/breadcrumb/breadcrumb-bg5.jpg);
     background-color: #ddd;
@@ -1940,7 +2328,8 @@ Please do not change anything here! write in a custom.css file if required!
     padding-top: 190px;
     position: relative;
     z-index: 1;
-	}
+}
+
 .breadcrumb-area-6 {
     background-image: url(assets/img/breadcrumb/breadcrumb-bg6.jpg);
     background-color: #ddd;
@@ -1952,10 +2341,12 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .breadcrumb-area.bg-color {
     background-image: none;
     background-color: #222;
 }
+
 .breadcrumb-area:after {
     background-color: #222;
     content: "";
@@ -1968,12 +2359,14 @@ Please do not change anything here! write in a custom.css file if required!
     width: 100%;
     z-index: -1;
 }
+
 .breadcrumb-content h2 {
     font-size: 40px;
     font-weight: 600;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+
 .breadcrumb {
     background-color: transparent;
     font-size: 18px;
@@ -1982,10 +2375,13 @@ Please do not change anything here! write in a custom.css file if required!
     padding: 0;
     text-transform: capitalize;
 }
+
 .breadcrumb a {
     color: #fff;
     font-family: "Roboto Slab", serif;
 }
+
+
 /*************************
 10. Blog
 *************************/
@@ -1999,6 +2395,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: relative;
     z-index: 1;
 }
+
 .blog-bg:after {
     background-color: #fff;
     content: "";
@@ -2016,6 +2413,7 @@ Please do not change anything here! write in a custom.css file if required!
     width: 100%;
     z-index: -1;
 }
+
 .single-blog:hover .blog-bg:after {
     opacity: 0.4;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -2023,14 +2421,17 @@ Please do not change anything here! write in a custom.css file if required!
     transform: scaleX(1);
     visibility: visible;
 }
+
 .blog-content {
     border: 1px solid #eee;
     border-top: 0px;
     padding: 20px 20px 20px;
 }
+
 .blog-content h4 {
     margin-bottom: 5px;
 }
+
 .blog-date {
     background-color: #fff;
     bottom: 20px;
@@ -2044,49 +2445,61 @@ Please do not change anything here! write in a custom.css file if required!
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
+
 .single-blog:hover .blog-date {
     background-color: #222;
     color: #fff;
 }
+
 .blog-date span {
     line-height: 24px;
 }
+
 .blog-date span:first-child {
     font-size: 30px;
 }
+
 .blog-date span:last-child {
     display: block;
     text-transform: uppercase;
 }
+
 .blog-content h4 a {
     color: #222;
     font-family: "Montserrat", sans-serif;
     position: relative;
 }
+
 .blog-content .info ul {
     border-bottom: 1px solid #eee;
     margin-bottom: 15px;
     padding-bottom: 5px;
 }
+
 .blog-content .info li {
     display: inline-block;
     margin-right: 20px;
     font-size: 95%;
 }
+
 .blog-content .info li:last-child {
     margin-right: 0;
 }
+
 .blog-content .info li a {
     color: #222;
     font-family: "Roboto Slab", serif;
     font-weight: 300;
 }
+
 .blog-content .info li a i {
     margin-right: 5px;
 }
+
 .blog-content .bordered-btn {
     margin-top: 20px;
 }
+
 .blog-content h4 a:after {
     background-color: #222;
     content: "";
@@ -2099,12 +2512,16 @@ Please do not change anything here! write in a custom.css file if required!
     transition: all 0.3s ease 0s;
     width: 0;
 }
+
 .single-blog:hover .blog-content h4 a:after {
     width: 105%;
 }
+
 .see-more-link {
     margin-top: 30px;
 }
+
+
 /*************************
 10.1 Blog pages
 *************************/
@@ -2112,12 +2529,16 @@ Please do not change anything here! write in a custom.css file if required!
 .blog-page .single-blog {
     margin-bottom: 30px;
 }
+
 .column-2 .blog-bg {
     height: 410px;
 }
+
 .column-1 .blog-bg {
     height: 630px;
 }
+
+
 /*************************
 10.2 Blog sidebar
 *************************/
@@ -2126,17 +2547,20 @@ Please do not change anything here! write in a custom.css file if required!
 .single-sidebar {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.07);
 }
+
 .single-sidebar {
     background-color: #fff;
     margin-bottom: 45px;
     padding: 20px;
     border: 1px solid #f5f5f5;
 }
+
 .search-area .search-box {
     height: 45px;
     position: relative;
     margin-bottom: 30px;
 }
+
 .search-area .search-box input {
     border: 1px solid #f5f5f5;
     height: 100%;
@@ -2144,6 +2568,7 @@ Please do not change anything here! write in a custom.css file if required!
     position: absolute;
     width: 100%;
 }
+
 .search-box button {
     background-color: transparent;
     font-size: 20px;
@@ -2155,10 +2580,12 @@ Please do not change anything here! write in a custom.css file if required!
     transition: all 0.5s ease 0s;
     width: 50px;
 }
+
 .search-box button:hover {
     color: #fff;
     background-color: #333;
 }
+
 .single-sidebar-title h3 {
     color: #666;
     font-size: 14px;
@@ -2167,6 +2594,7 @@ Please do not change anything here! write in a custom.css file if required!
     margin-bottom: 10px;
     letter-spacing: 1px;
 }
+
 .single-sidebar-menu ul li a {
     color: #545454;
     display: block;
@@ -2175,6 +2603,7 @@ Please do not change anything here! write in a custom.css file if required!
     text-transform: capitalize;
     font-size: 16px;
 }
+
 .single-sidebar-menu ul li a:before {
     content: "\f108";
     font-family: 'flaticon';
@@ -2183,12 +2612,15 @@ Please do not change anything here! write in a custom.css file if required!
     position: absolute;
     top: 9px;
 }
+
 .single-sidebar-menu ul li a:hover {
     padding-left: 20px;
 }
+
 .tag-menu ul li {
     display: inline-block;
 }
+
 .tag-menu ul li a {
     border: 1px solid #ddd;
     color: #666;
@@ -2198,11 +2630,14 @@ Please do not change anything here! write in a custom.css file if required!
     padding: 5px 20px;
     text-transform: capitalize;
 }
+
 .tag-menu ul li a:hover {
     color: #fff;
     background-color: #333;
     border-color: #333;
 }
+
+
 /*************************
 10.3 Blog pagination
 *************************/
@@ -2214,18 +2649,22 @@ Please do not change anything here! write in a custom.css file if required!
     text-align: center;
     display: block;
 }
+
 .pagination ul li {
     display: inline-block;
 }
+
 .pagination span {
     font-size: 13px;
     font-weight: 700;
 }
+
 .pagination ul li.current a {
     background-color: #222;
     color: #fff;
     border-color: #222;
 }
+
 .pagination ul li a {
     background-color: transparent;
     border: 1px solid #ddd;
@@ -2236,6 +2675,8 @@ Please do not change anything here! write in a custom.css file if required!
     margin: 0 5px;
     width: 30px;
 }
+
+
 /*************************
 10.4 Blog details
 *************************/
@@ -2243,10 +2684,12 @@ Please do not change anything here! write in a custom.css file if required!
 .details-content {
     margin-bottom: 30px;
 }
+
 .details-content h2 {
     text-transform: uppercase;
     margin-top: 30px;
 }
+
 .details-content blockquote {
     background-color: #f5f5f5;
     border-radius: 5px;
@@ -2254,20 +2697,25 @@ Please do not change anything here! write in a custom.css file if required!
     font-size: 16px;
     margin: 20px 0px;
 }
+
 .blog-full-post .blog-info {
     background-color: #f5f5f5;
     padding: 5px 10px;
 }
+
 .blog-full-post .blog-info p {
     margin-bottom: 0;
 }
+
 .blog-full-post .blog-info p span {
     margin-right: 10px;
 }
+
 .blog-full-post .blog-info p span i {
     margin-right: 3px;
     font-weight: 700;
 }
+
 .comment-box ul li {
     background-color: #f5f5f5;
     border-radius: 3px;
@@ -2275,49 +2723,62 @@ Please do not change anything here! write in a custom.css file if required!
     overflow: hidden;
     padding: 20px;
 }
+
 .comment-box ul li .author-comment {
     padding-left: 2%;
     width: 90%;
 }
+
 .comment-box ul li .author-img {
     width: 10%;
 }
+
 .author-comment h5 {
     color: #777;
     margin-bottom: 0;
 }
+
 .author-comment h5 a {
     display: inline-block;
     margin-right: 10px;
     text-transform: capitalize;
 }
+
 .author-comment p {
     line-height: 24px;
     margin-bottom: 0;
 }
+
 .author-comment h5 a.reply {
     color: #777;
     margin-right: 15px;
     font-weight: 700;
 }
+
 .comment-box ul li.comment-reply {
     margin-left: 50px;
 }
+
 .blog-comment-form .input-box input,
 .blog-comment-form .input-textarea textarea {
     margin-bottom: 20px;
 }
+
 .author-comment h5 a {
     font-weight: 700;
     color: #333;
     letter-spacing: 1px;
 }
+
 .blog-comment-form {
     margin-top: 50px;
 }
+
 .blog-comment-form h4 {
     text-transform: uppercase;
 }
+
+
 /*************************
 11. Eror area
 *************************/
@@ -2327,6 +2788,7 @@ Please do not change anything here! write in a custom.css file if required!
     background-color: #333;
     text-align: center;
 }
+
 .eror-area h1,
 .eror-area h2 {
     color: #cfcfcf;
@@ -2334,11 +2796,14 @@ Please do not change anything here! write in a custom.css file if required!
     text-transform: uppercase;
     line-height: 40px;
 }
+
 .eror-area h2 {
     font-size: 50px;
     line-height: 50px;
     font-weight: 700;
 }
+
+
 /*************************
 12. Scroll to top
 *************************/
@@ -2358,14 +2823,18 @@ Please do not change anything here! write in a custom.css file if required!
     width: 40px;
     z-index: 9999;
 }
+
 .scrollToTop:hover {
     color: #fff;
     opacity: 0.8;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
+
 .scrollToTop:focus {
     color: #fff;
 }
+
+
 /*************************
 13. footer
 *************************/
@@ -2374,21 +2843,26 @@ Please do not change anything here! write in a custom.css file if required!
     padding: 40px 0;
     box-shadow: 0 0 25px -10px #ddd;
 }
+
 .copyright-text {
-	margin: 0;
-	text-align: center;
+    margin: 0;
+    text-align: center;
 }
+
 .copyright-text a {
     color: #454545;
     font-family: "Roboto Slab", serif;
 }
+
 .footer-social {
     margin-top: 20px;
 }
+
 .footer-social li {
     display: inline-block;
     margin: 0 5px;
 }
+
 .footer-social li a {
     background-color: #454545;
     color: #fff;
@@ -2398,10 +2872,13 @@ Please do not change anything here! write in a custom.css file if required!
     line-height: 45px;
     width: 45px;
 }
+
 .footer-social li a:hover {
-	border-radius: 50%;
-	text-align: center;
+    border-radius: 50%;
+    text-align: center;
 }
+
+
 /*************************
 13.1 footer style 2
 *************************/
@@ -2410,9 +2887,11 @@ Please do not change anything here! write in a custom.css file if required!
     padding-bottom: 0px;
     padding-top: 50px;
 }
+
 .widget-title h4 {
     text-transform: uppercase;
 }
+
 .widget-content span,
 .widget-content a {
     color: #333;
@@ -2421,9 +2900,11 @@ Please do not change anything here! write in a custom.css file if required!
     font-weight: 300;
     margin-bottom: 5px;
 }
+
 .single-footer-widget .contact-form {
     margin-top: 20px;
 }
+
 .single-footer-widget input[type="text"],
 .single-footer-widget input[type="email"],
 .single-footer-widget input[type="tel"],
@@ -2431,9 +2912,11 @@ Please do not change anything here! write in a custom.css file if required!
     height: 40px;
     font-size: 90%;
 }
+
 .single-footer-widget textarea {
     height: 120px;
 }
+
 .footer-social-2 li a {
     text-transform: capitalize;
     color: #333;
@@ -2444,6 +2927,7 @@ Please do not change anything here! write in a custom.css file if required!
     opacity: 0.7;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 }
+
 .footer-social-2 li a i {
     width: 30px;
     height: 30px;
@@ -2453,10 +2937,12 @@ Please do not change anything here! write in a custom.css file if required!
     display: inline-block;
     margin-right: 10px;
 }
+
 .footer-social-2 li a:hover {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
 .footer-style-2 .copyright-text {
     border-top: 1px solid #eee;
     margin-top: 50px;
